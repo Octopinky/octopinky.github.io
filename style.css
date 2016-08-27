@@ -1,0 +1,93 @@
+#pandaImg {
+  margin: auto;
+  box-shadow:0px 0px 50px pink;
+}
+
+#about {
+  padding-top: 64px;
+}
+
+#aboutMe {
+  text-align: center;
+  text-align: justify;
+  text-justify: inter-word;
+  margin: auto;
+}
+
+.aboutPanda {
+  padding: 50px 30px;
+  font-size: 1.2em;
+}
+
+.row {
+  padding: 0px 30px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  min-height: 500px;
+  background: rgba(195, 177, 177, 0.51);
+}
+.ro {
+  display:block;
+  min-height:350px;
+  padding:65px;
+}
+
+.btn-primary{background:pink; border-color: rgba(83, 74, 152, 0.6);}
+.btn-primary:hover{background:rgba(83, 74, 152, 0.6)}
+.nav>li {
+  display: inline-block;
+}
+
+.navbar-header {
+  background-color: pink;
+  min-height: 64px;
+}
+
+#octopinky-navbar {
+  background-color: pink;
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#octopinky-navbar.navbar-collapse.collapse {
+  width: 100%;
+}
+
+#octopinky-navbar.navbar-collapse.collapse.in {
+  width: 90%;
+}
+
+#footer {
+  background-color: pink;
+  padding:15px;
+  text-align:right;
+}
+
+.thumbnail {
+  padding: 0px 30px;
+  background: transparent;
+}
+
+#portfolio {
+  width: 100%;
+}
+.icon, i:hover {  
+    color: rgba(83, 74, 152, 1);
+ }
+.navbar-default .navbar-toggle:focus,
+.navbar-default .navbar-toggle:hover{  
+    background-color: rgba(83, 74, 152, 0.3);
+ }
+.form-control:focus {
+    border-color: pink;
+-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 80px rgba(255, 192, 203, 0.9);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 80px rgba(255, 192, 203, 0.9)}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+  color: rgba(83, 74, 152, 0.6);}
