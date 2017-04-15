@@ -91,3 +91,7 @@ body {
     font-size: 14px;
     line-height: 1.42857143;
   color: rgba(83, 74, 152, 0.6);}
+.fa{
+  padding:5px;
+  color: rgba(83, 74, 152, 0.5)
+}
